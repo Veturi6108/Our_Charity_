@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../media"
+		},
+		{
+			"path": "../myapp"
+		},
+		{
+			"path": "../myproject"
+		},
+		{
+			"path": "../static"
+		},
+		{
+			"path": "../Templates"
+		},
+		{
+			"path": "../volunteer"
+		}
+	]
+}
